@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo 'Hello out there.... I live';
+echo ' Hello out there.... I live';
